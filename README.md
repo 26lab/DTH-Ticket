@@ -1,7 +1,3 @@
-
-# DTH-Ticket Script
-Damit läuft das Skript komplett autonom: Du bist live auf der Übersicht, startest es einmal, und es kümmert sich darum, sobald die Tickets verfügbar sind, in der gewünschten Kategorie und Anzahl die teuerste Variante in deinen Warenkorb zu legen und dich anschließend dorthin zu navigieren.
-
 # 🎟️ DTH Ticket Auto-Booker
 
 Ein einfaches JavaScript-Snippet, das automatisch die gewünschten Tickets aus dem „Die Toten Hosen“ Shop in den Warenkorb legt und dich anschließend dorthin weiterleitet.
